@@ -1,2 +1,3 @@
 # BlogDeCafe
-Blog De Cafe es un proyectos 100% practico en donde pude practicar HTML, CSS, FLEXBOX y demas, asi como diferentes tipos de herramientas para mejorar el performance
+Blog De Cafe is a 100% practical project where I could practice HTML, CSS, FLEXBOX and others tools, like modernizr. 
+
